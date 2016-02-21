@@ -10,7 +10,7 @@ This theme built with Twitter Bootstrap v.3. It is basic theme with basic style 
 
 /*Overwrite Bootstrap*/
 .container{
-	max-width: 960px;
+	/*max-width: 960px;*/
 }
 
 .alignleft {

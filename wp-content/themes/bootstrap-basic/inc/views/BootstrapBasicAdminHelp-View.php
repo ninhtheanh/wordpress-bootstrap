@@ -20,7 +20,7 @@
 	<br>
 	This needs define after loading bootstrap to make sure it will be overwrited.
 	<br>
-	2. You can add a parent div with class name .container-fixed as <a target="_blank" href="http://s.bootply.com/render/SIiIrCbApO">this example</a>
+	2. You can add a parent div with class name .container-fixed as <a target="_blank" href="http://s.bootply.com/render/SIiIrCbApO">this example</a> or <a target="_blank" href="https://wp-themes.com/bootville-lite/">this example</a>
 	<code>
 		.container-fixed {
 		    margin: 0 auto;
