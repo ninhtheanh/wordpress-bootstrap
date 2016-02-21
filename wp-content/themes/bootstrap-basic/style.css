@@ -1,0 +1,30 @@
+/*
+Theme Name: Bootstrap Basic
+Theme URI: 
+Author: 
+Author URI: 
+Description: Bootstrap v.3 basic theme.
+Version: 1.0.0
+This theme built with Twitter Bootstrap v.3. It is basic theme with basic style for build new theme with Bootstrap.
+*/
+
+/*Overwrite Bootstrap*/
+.container{
+	max-width: 960px;
+}
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+.sticky {
+	
+}
+
+
