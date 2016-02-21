@@ -9,6 +9,7 @@
 			max-width: 1000px;
 		}
 	</code>
+	For more infomation, you can reference <a target="_blank" href="https://colorlib.com/activello/">this theme</a>
 	OR
 	<code>
 	@media (min-width: 1200px){

@@ -23,12 +23,11 @@
 						</div>
 					</div>
 				</footer>
+				<!--#site-footer-->
 			</div><!--.container page-container-->
-		</div><!--.page-container-->
-		
+		</div><!--.page-container-->		
 		
 		<!--wordpress footer-->
-		<?php wp_footer(); ?> 
-		<link rel='stylesheet' id='bootstrap-basic-style-css'  href='http://localhost:8080/Wordpress/wordpress-bootstrap/wp-content/themes/bootstrap-basic/style.css?ver=4.4.2' type='text/css' media='all' />
+		<?php wp_footer(); ?>
 	</body>
 </html>

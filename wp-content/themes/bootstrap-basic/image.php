@@ -6,7 +6,7 @@
 
 get_header();
 ?> 
-				<div class="col-md-12 content-area image-attachment" id="main-column">
+				<div id="primary" class="col-md-12 content-area image-attachment">
 					<main id="main" class="site-main" role="main">
 						<?php 
 						while (have_posts()) {
@@ -89,4 +89,5 @@ get_header();
 						?> 
 					</main>
 				</div>
+				<!--#primary-->
 <?php get_footer(); ?> 

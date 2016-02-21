@@ -1,6 +1,6 @@
 <?php get_header(); ?> 
 
-				<div class="col-md-12 content-area" id="main-column">
+				<div id="primary" class="col-md-12 content-area">
 					<main id="main" class="site-main" role="main">
 						<section class="error-404 not-found">
 							<header class="page-header">
@@ -57,5 +57,6 @@
 						</section><!-- .error-404 -->
 					</main>
 				</div>
+				<!--#primary-->
 
 <?php get_footer(); ?> 
