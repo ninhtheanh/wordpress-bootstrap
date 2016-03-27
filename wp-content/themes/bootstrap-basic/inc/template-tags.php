@@ -143,7 +143,7 @@ if (!function_exists('bootstrapBasicEditPostLink')) {
 	function bootstrapBasicEditPostLink() 
 	{
 		$edit_post_link = get_edit_post_link();
-		$edit_btn = '<a class="post-edit-link btn btn-default btn-xs" href="'.$edit_post_link.'" title="' . __('Edit', 'bootstrap-basic') . '"><i class="edit-post-icon glyphicon glyphicon-pencil" title="' . __('Edit', 'bootstrap-basic') . '"></i></a>';
+		$edit_btn = '<a class="post-edit-link btn btn-default btn-xs" href="'.$edit_post_link.'" title="' . __('Edit', 'bootstrap-basic') . '" target="_blank"><i class="edit-post-icon glyphicon glyphicon-pencil" title="' . __('Edit', 'bootstrap-basic') . '"></i></a>';
 		unset($edit_post_link);
 		echo $edit_btn;
 	}// bootstrapBasicEditPostLink

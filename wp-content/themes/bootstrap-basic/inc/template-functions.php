@@ -43,12 +43,12 @@ if (!function_exists('bootstrapBasicGetMainColumnSize')) {
 }
 
 /**
- * Customizing the Login Form
+ * Customizing the Login Form - Change logo
  */
 function ta_login_logo() { ?>
     <style type="text/css">
         .login h1 a {
-            background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/images/header/logo.png) !important;
+            background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/images/logo.png) !important;
     		background-size: auto;			
 		    height: 120px;
 		    width: 194px;
